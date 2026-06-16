@@ -1,3 +1,33 @@
+# 🏠 Generator ogłoszeń nieruchomości AI
+
+Aplikacja webowa generująca profesjonalne ogłoszenia nieruchomości w języku polskim przy użyciu Claude AI.
+
+## Demo
+
+[Link do live demo na Vercel — dodaj po wdrożeniu]
+
+## Funkcje
+
+- Generuje 3 warianty ogłoszenia: standardowe, premium i social media
+- Optymalizowane pod OLX, Otodom i Gratka
+- Kopiowanie jednym kliknięciem
+- Interfejs w języku polskim
+
+## Stack
+
+- Next.js 14 (App Router)
+- TypeScript
+- Tailwind CSS
+- Anthropic Claude API (Sonnet 4.6)
+- Vercel (hosting)
+
+## Uruchomienie lokalnie
+
+1. Sklonuj repozytorium
+2. Zainstaluj zależności: `npm install`
+3. Utwórz `.env.local` z kluczem `ANTHROPIC_API_KEY`
+4. Uruchom: `npm run dev`
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
