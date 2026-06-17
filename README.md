@@ -4,7 +4,7 @@ Aplikacja webowa generująca profesjonalne ogłoszenia nieruchomości w języku 
 
 ## Demo
 
-[Link do live demo na Vercel — dodaj po wdrożeniu]
+https://generator-ogloszen-ai.vercel.app/
 
 ## Funkcje
 
